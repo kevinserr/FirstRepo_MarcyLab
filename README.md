@@ -6,3 +6,8 @@
 ## Fun Facts About Me
 <p> - I love to watch baseball especially the New York Yankees<br /> - I enjoy playing video games, specifically simulators <br /> 
 - I built my own pc! </p>
+
+## Check This Out!
+![My Image](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg)
+## Check This Out!
+Vist my favorite website: [Baseball Reference](https://www.baseball-reference.com)
